@@ -2,7 +2,7 @@
 The data contains the details for the Uber rides across various boroughs (subdivisions) of New York City at an hourly level and attributes associated with weather conditions at that time.
 
 # Information about the Dataset
-29101 rows and 13 columns with the foloowing names:
+29101 rows and 13 columns with the following names:
 * pickup_dt: Date and time of the pick-up.
 * borough: NYC's borough.
 * pickups: Number of pickups for the period (hourly).
